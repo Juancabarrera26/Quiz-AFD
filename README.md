@@ -1,4 +1,6 @@
-# Quiz — AFD para tokens `+`, `++` e `ID`
+# Quiz — AFD 
+
+## tokens `+`, `++` e `ID`
 
 Este repositorio contiene la implementacion de un **AFD (Automata Finito Determinista)** que reconoce los tokens definidos por las siguientes expresiones regulares:
 
